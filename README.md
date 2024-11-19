@@ -15,4 +15,7 @@ Larissa Gonçalves da Silva   RA: 22.224.022-8
 
 ## Descrição das tabelas  
 
+![image](https://github.com/user-attachments/assets/e68dc2e0-e0dd-4f56-8b00-8d76e84c1cc5)
+
+
 
