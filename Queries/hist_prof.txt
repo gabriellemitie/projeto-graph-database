@@ -1,0 +1,1 @@
+MATCH (p:Professor {nome_prof:"Stephanie Dickson"})-[l:LECIONA_NO_CURSO]->(c:Curso) RETURN p.nome_prof as professor, c.nome_curso

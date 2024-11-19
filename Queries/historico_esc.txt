@@ -1,0 +1,2 @@
+MATCH (h:Histec)-[r:CURSOU]->(a:Aluno {nome_aluno: "Melissa Richardson"}),(h)-[r2:REFERENTE_A]->(d:Disciplina)
+RETURN a.nome_aluno as nome,a.ra as ra, h.ano_cursado as ano, h.semestre_cursado as semestre, h.nota as nota_final, d.nome_disc as disciplina

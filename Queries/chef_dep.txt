@@ -1,0 +1,1 @@
+MATCH (p:Professor {chefe_dep: true})-[r:PERTENCE_AO_DEPARTAMENTO]->(d:Departamento) RETURN p.nome_prof, d.nome_dep

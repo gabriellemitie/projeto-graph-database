@@ -1,0 +1,1 @@
+MATCH (t:Tcc {id_tcc:1})-[d:DESENVOLVIDO_POR]->(a:Aluno) RETURN t.id_tcc as grupo, a.nome_aluno
